@@ -1,0 +1,21 @@
+.star {
+  cursor: pointer;
+  font-size: 40px;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+.rate {
+  margin-left: 20px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.emoji {
+  font-size: 50px;
+}
